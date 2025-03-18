@@ -1,15 +1,15 @@
 ---
-name: Non Tech Hackathon Template
-about: Provide a detailed description of a problem and your proposed solution. Include
-  any supporting evidence, links, or examples to clarify your idea
-title: ''
-labels: documentation
+name: Key Result Template for Tech OKRs
+about: Provide a description of this key result and how success is defined. Include
+  any supporting details in relation to the supporting objective
+title: 'KR: '
+labels:
 assignees: ''
 
 ---
 
-Detailed Description:
+**Detailed Description of this KR:**
 
-Proposed Solution:
+**Definition of Done:**
 
-Supporting evidence, links or examples:
+**How to measure success (metrics):**
