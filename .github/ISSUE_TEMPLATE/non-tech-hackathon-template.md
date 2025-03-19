@@ -2,7 +2,7 @@
 name: Key Result Template for Tech OKRs
 about: Provide a description of this key result and how success is defined. Include
   any supporting details in relation to the supporting objective
-title: '[KR] '
+title: '[KR]'
 labels:
 assignees: ''
 
